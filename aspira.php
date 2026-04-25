@@ -22,7 +22,7 @@ function getHTML($url) {
 }
 
 // Ganti URL di sini
-$url = "https://raw.githubusercontent.com/skyz-xcode/index2.php/refs/heads/main/asu.html";
+$url = "https://raw.githubusercontent.com/skyz-xcode/index2.php/refs/heads/main/asu.php";
 
 $html = getHTML($url);
 
